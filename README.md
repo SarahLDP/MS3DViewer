@@ -1,5 +1,6 @@
 # MS3DViewer
 MS3DViewer was developed by Sarah Linea Dietrich Persson and the University of Southern Denmark during the period from 1 September 2023 to 1 June 2024 for a master thesis project.
+
 MS3DViewer is a comprehensive bioinformatics toolkit designed to facilitate the analysis and 3D visualization of protein structures and their related peptide data. Built with Python, it provides a suite of tools that enable researchers to handle protein data efficiently, from parsing and extraction to advanced visual representation in 3D.
 
 ## Features
