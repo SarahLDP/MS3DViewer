@@ -25,6 +25,10 @@ viewer.py: Configures and displays 3D visualizations of protein structures.
 git clone https://github.com/yourusername/MS3DViewer.git
 '''
 
+``` bash
+pip install peptdeep
+```
+
 **2. Install Dependencies:**
 Make sure Python is installed on your system and install the required libraries:
 
