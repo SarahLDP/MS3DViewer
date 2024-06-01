@@ -1,0 +1,9 @@
+pip>=24.0
+pandas
+openpyxl
+requests
+py3Dmol
+plotly
+Bio
+dash
+matplotlib
