@@ -21,12 +21,16 @@ viewer.py: Configures and displays 3D visualizations of protein structures.
 ## Getting Started
 **1. Clone the Repository:**
 
-'git clone https://github.com/yourusername/MS3DViewer.git'
+'
+git clone https://github.com/yourusername/MS3DViewer.git
+'
 
 **2. Install Dependencies:**
 Make sure Python is installed on your system and install the required libraries:
 
-'pip install -r requirements.txt'
+'''
+pip install -r requirements.txt
+'''
 
 **3. Run the MS3DViewer:**
 Navigate to the directory containing the scripts and run the desired Python scripts as follows:
