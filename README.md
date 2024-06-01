@@ -19,7 +19,7 @@ url_processing.py: Retrieves protein data files from specified URLs.
 viewer.py: Configures and displays 3D visualizations of protein structures.
 
 ## Getting Started
-### 1. Clone the Repository:
+**1. Clone the Repository:**
 
 git clone https://github.com/yourusername/MS3DViewer.git
 
