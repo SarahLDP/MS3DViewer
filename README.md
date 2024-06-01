@@ -1,7 +1,7 @@
 # MS3DViewer
 MS3DViewer is a comprehensive bioinformatics toolkit designed to facilitate the analysis and 3D visualization of protein structures and their related peptide data. Built with Python, it provides a suite of tools that enable researchers to handle protein data efficiently, from parsing and extraction to advanced visual representation in 3D.
 
-Features
+## Features
 Data Parsing: Extract protein and peptide data from various formats, including Excel and external databases like UniProt and AlphaFold.
 Protein Modifications: Analyze and process different types of protein modifications to better understand functional implications.
 3D Visualization: Utilize py3Dmol to visualize protein structures in three dimensions with options to highlight modifications and peptide coverage.
